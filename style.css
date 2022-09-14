@@ -1,0 +1,23 @@
+input[id='titulo']:invalid {
+    background-color: #eee;
+}
+
+input[id='titulo']:isvalid {
+    background-color: #F59;
+}
+
+input[id='contenido']:invalid {
+    background-color: #eee;
+}
+
+input[id='contenido']:isvalid {
+    background-color: #eee;
+}
+
+input[id='img']:invalid {
+    background-color: #eee;
+}
+
+input[id='img']:isvalid {
+    background-color: #eee;
+}
